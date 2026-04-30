@@ -6,4 +6,6 @@ Good websites (no slop)
 ## Music
 * [NTS](https://nts.live) — Eclectic web radio
 ## Fitness
-* [Darebee](https://darebee.com) — Free workout exercises and programs
+* [Darebee](https://darebee.com) — Workout exercises and programs
+## Learning
+* [Drawabox](https://drawabox.com/) — Drawing basics course
